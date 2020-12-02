@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Julien Levesque
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Head Researcher, Politics & Society
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Centre de Sciences Humaines
+  url: "www.csh-delhi.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Julien Levesque is a political sociologist whose work focuses on socio-political dynamics in South Asian Muslim societies.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Islam in South Asia
+- political sociology
+- nationalism and identity construction
+- caste politics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Studies
+    institution: EHESS
+    year: 2016
+  - course: Master in International Affairs
+    institution: Columbia University (SIPA)
+    year: 2010
+  - course: Master in International Affairs
+    institution: Sciences Po
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,24 +44,24 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jullevesque
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=user=VcKCGa8AAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jullevesque
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Julien Levesque is a political sociologist whose work focuses on socio-political dynamics in South Asian Muslim societies. His interdisciplinary approach draws on political studies, history, anthropology and cultural studies. He is currently Head Researcher at the Centre de Sciences Humaines, New Delhi, and is affiliated with the Centre for South Asian Studies (CEIAS), EHESS, Paris, as a post-doc researcher. He holds a PhD (2016) in Political Science from the School of Advanced Studies in Social Sciences (EHESS). His doctoral research focused on nationalism and identity construction in Sindh after Pakistan’s independence. His ongoing work looks at dynamics of caste and leadership among Muslims in North India (Delhi, UP) and Pakistan (Sindh).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Main research interests:
+- political sociology of Islam and Muslims in South Asia;
+- interplay between politics, culture, and religion (Islam);
+- nationalism and identity formation;
+- sociology of activism and leadership, life course analysis.
