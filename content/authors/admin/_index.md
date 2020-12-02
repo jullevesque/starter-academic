@@ -11,7 +11,7 @@ role: Head Researcher, Politics & Society
 # Organizations/Affiliations
 organizations:
 - name: Centre de Sciences Humaines
-  url: "www.csh-delhi.com"
+  url: "http://www.csh-delhi.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Julien Levesque is a political sociologist whose work focuses on socio-political dynamics in South Asian Muslim societies.
